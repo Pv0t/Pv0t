@@ -2,7 +2,7 @@
 
 <sub>**CyberSecurity Analyst & Penetration Tester**</sub>  
 
-I am a cybersecurity enthusiast with experience in various Penetration Testing, I enjoy solving complicated problems and helping people. My goal is to become an expert in the cybersecurity field while continuing to learn new things and sharpen my skills. My favorite hobby is to studying how big company, like META, etc., violates people's privacy and how to counter it. All projects are built from the ground up, from planning and designing.  
+I am a cybersecurity enthusiast with experience in various Penetration Testing. I enjoy solving complicated problems and helping people. My goal is to become an expert in the cybersecurity field while continuing to learn new things and sharpen my skills. I also love studying and researching how big companies, like META violate people's privacy and how to regain control of our data. All projects are built from the ground up, from planning to designing. 
 
 <p align="left"><a href="https://github.com/Pv0t" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/paolo-cuko/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
