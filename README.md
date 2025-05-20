@@ -25,5 +25,6 @@ I am a cybersecurity enthusiast with experience in various Penetration Testing. 
 
 <h3 align="left">📝 Latest GitHub Repostory</h3>
 
+- [Aid My Privacy on MAC](https://github.com/Pv0t/aid-myprivacy_MAC/blob/main/README.md) | <sub>**Privacy | Bash Project**</sub>
 - [Fake ID Generator](https://github.com/Pv0t/Fake-ID) | <sub>**Privacy | Python Project**</sub> 
 - [How to get back your privacy on the smartphone](https://github.com/Pv0t/3.Smartphone-Privacy) | <sub>**Privacy & Security**</sub>  
