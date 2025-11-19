@@ -9,4 +9,4 @@ I am a cybersecurity enthusiast with experience in various Penetration Testing. 
 - [Fortiweb to XLSX/JSON](https://github.com/Pv0t/Fortiweb-to-xlsx) | <sub>**Utility | Python3 Project | <ins>Discontinued</ins>**
 - [Aid My Privacy on MAC](https://github.com/Pv0t/aid-myprivacy_MAC/blob/main/README.md) | <sub>**Privacy | Bash Project | <ins>Discontinued</ins>**</sub>
 - [Fake ID Generator](https://github.com/Pv0t/Fake-ID) | <sub>**Privacy | Python Project | Last Update: <ins>12/11/2025</ins>**</sub> 
-- [How to get back your privacy on the smartphone](https://github.com/Pv0t/3.Smartphone-Privacy) | <sub>**Privacy & Security | Last update: <ins>xx/xx/xxxx</ins>**</sub>  
+- [How to get back your privacy on the smartphone](https://github.com/Pv0t/3.Smartphone-Privacy) | <sub>**Privacy & Security | Last update: <ins>19/11/2025</ins>**</sub>  
