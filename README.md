@@ -6,6 +6,7 @@ I am a cybersecurity enthusiast with experience in various Penetration Testing. 
 
 <h3 align="left">📝 Latest GitHub Repository</h3>
 
+- [Setting up a static IP address and a cloned MAC Address on Qubes OS](https://github.com/Pv0t/static-IP-address-qubesOS) | <sub>**Privacy & Security | Qubes OS | Last update: <ins>20/12/2025</ins>**</sub>
 - [Hosting Syncthing Relay & Discovery Server over Docker](https://github.com/Pv0t/Syncthing-server-over-docker/tree/main) | <sub>**Privacy & Security | Server-Side Project | Last update: <ins>14/12/2025</ins>**</sub>
 - [Fortiweb to XLSX/JSON](https://github.com/Pv0t/Fortiweb-to-xlsx) | <sub>**Utility | Python3 Project | <ins>Discontinued</ins>**
 - [Aid My Privacy on MAC](https://github.com/Pv0t/aid-myprivacy_MAC/blob/main/README.md) | <sub>**Privacy | Bash Project | <ins>Discontinued</ins>**</sub>
