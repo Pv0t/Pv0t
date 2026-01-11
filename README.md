@@ -4,8 +4,9 @@
 
 I am a cybersecurity enthusiast with experience in various Penetration Testing. I enjoy solving complicated problems and helping people. My goal is to become an expert in the cybersecurity field while continuing to learn new things and sharpen my skills. I also love studying and researching how big companies, like META violate people's privacy and how to regain control of our data. All projects are built from the ground up, from planning to designing. 
 
-<h3 align="left">📝 Latest GitHub Repository</h3>
+<h3 align="left">📝 Latest Github Repository</h3>
 
+- [Setting up a wireguard VPN from your VPS to a home server located behind a CGNAT.](https://github.com/Pv0t/wireguard-behind-CGNAT) | <sub>**Privacy & Security | Network Project | Last update: <ins>11/01/2026</ins>**</sub>
 - [Setting up a static IP address and a cloned MAC Address on Qubes OS](https://github.com/Pv0t/static-IP-address-qubesOS) | <sub>**Privacy & Security | Qubes OS | Last update: <ins>20/12/2025</ins>**</sub>
 - [Hosting Syncthing Relay & Discovery Server over Docker](https://github.com/Pv0t/Syncthing-server-over-docker/tree/main) | <sub>**Privacy & Security | Server-Side Project | Last update: <ins>14/12/2025</ins>**</sub>
 - [Fortiweb to XLSX/JSON](https://github.com/Pv0t/Fortiweb-to-xlsx) | <sub>**Utility | Python3 Project | <ins>Discontinued</ins>**
