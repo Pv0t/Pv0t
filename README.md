@@ -6,6 +6,7 @@ I am a cybersecurity enthusiast with experience in various Penetration Testing. 
 
 <h3 align="left">📝 Latest Github Repository</h3>
 
+- [OSWE: Recommended Study Resources](https://github.com/Pv0t/OSWE-Study) | <sub>**Study | Last update: <ins>02/03/2026</ins>**</sub>
 - [Setting up a wireguard VPN from your VPS to a home server located behind a CGNAT.](https://github.com/Pv0t/wireguard-behind-CGNAT) | <sub>**Privacy & Security | Network Project | Last update: <ins>11/01/2026</ins>**</sub>
 - [Setting up a static IP address and a cloned MAC Address on Qubes OS](https://github.com/Pv0t/static-IP-address-qubesOS) | <sub>**Privacy & Security | Qubes OS | Last update: <ins>20/12/2025</ins>**</sub>
 - [Hosting Syncthing Relay & Discovery Server over Docker](https://github.com/Pv0t/Syncthing-server-over-docker/tree/main) | <sub>**Privacy & Security | Server-Side Project | Last update: <ins>14/12/2025</ins>**</sub>
