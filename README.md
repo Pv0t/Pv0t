@@ -6,7 +6,7 @@ I am a cybersecurity enthusiast with experience in various Penetration Testing. 
 
 <h3 align="left">📝 Latest Github Repository</h3>
 
-- [AI: Study Resources](https://github.com/Pv0t/Red-Team-AI-Study-Resources/) | <sub>**Study | Last update: <ins>05/08/2026</ins>**</sub>
+- [AI: Study Resources](https://github.com/Pv0t/AI-Study-Resources/) | <sub>**Study | Last update: <ins>05/08/2026</ins>**</sub>
 - [Auditor Linux Integrity](https://github.com/Pv0t/auditor-linux-integrity/tree/main) | <sub>**Security | Operating System Project | Last update: <ins>02/08/2026</ins>**</sub>
 - [Setting up a wireguard VPN from your VPS to a home server located behind a CGNAT.](https://github.com/Pv0t/wireguard-behind-CGNAT) | <sub>**Privacy & Security | Network Project | Last update: <ins>11/01/2026</ins>**</sub>
 - [Setting up a static IP address and a cloned MAC Address on Qubes OS](https://github.com/Pv0t/static-IP-address-qubesOS) | <sub>**Privacy & Security | Qubes OS | Last update: <ins>20/12/2025</ins>**</sub>
