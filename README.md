@@ -6,6 +6,7 @@ I am a cybersecurity enthusiast with experience in various Penetration Testing. 
 
 <h3 align="left">📝 Latest Github Repository</h3>
 
+- [Cybersecurity RSS Feeder](https://github.com/Pv0t/Cybersecurity-RSS-Feeder/tree/main) | <sub>**General | Last update: <ins>01/11/2026</ins>**</sub>
 - [AI: Rogue Agent](https://github.com/Pv0t/AI-rogue-agent/tree/main) | <sub>**Red Team | AI | Last update: <ins>25/08/2026</ins>**</sub>
 - [AI: Study Resources](https://github.com/Pv0t/AI-Study-Resources/) | <sub>**Study | Last update: <ins>05/08/2026</ins>**</sub>
 - [Auditor Linux Integrity](https://github.com/Pv0t/auditor-linux-integrity/tree/main) | <sub>**Security | Operating System Project | Last update: <ins>02/08/2026</ins>**</sub>
